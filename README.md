@@ -3,7 +3,7 @@
 <h3 align="left">An ardent learner and backend developer from Korea</h3>
 
 - 🌱 I’m currently on the SSAFY 6th program.
-- 📝 I write articles about my experiences on my blog [here!](https://itzmeee.tistory.com)
+- 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <details><summary><b>Star rating</b></summary>

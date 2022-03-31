@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Minchae Kim
 
-<h3 align="left">An ardent learner and backend developer from Korea</h3>
+<h3 align="left">An ardent learner and (to-be) backend developer from Korea</h3>
 
 - 🌱 I’m currently on the SSAFY 6th program.
 - 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)

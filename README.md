@@ -5,7 +5,8 @@
 - 🌱 I’m currently on the SSAFY 6th program (2021.07 ~ ).
 - 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)
 
-<h3 align="left">🍒 Languages and Tools:</h3>
+<br>
+<h3 align="left">🍒 Languages and Tools</h3>
 <details><summary><b>Star rating</b></summary>
 
 <ul>
@@ -26,17 +27,24 @@
 
 <p align="center">
   
-  | skill | level |
+  ![PYTHON](https://img.shields.io/badge/PYTHON-★★★★★-3776AB?style=plastic&logo=Python&logoColor=white)
+  ![DJANGO](https://img.shields.io/badge/DJANGO-★★★★☆-092E20?style=plastic&logo=Django&logoColor=white)
+  ![SPRING BOOT](https://img.shields.io/badge/SPRING_BOOT-★★★☆☆-6DB33F?style=plastic&logo=Springboot&logoColor=white)
+  ![DOCKER](https://img.shields.io/badge/DOCKER-★☆☆☆☆-2496ED?style=plastic&logo=Docker&logoColor=white)
+  ![JIRA SOFTWARE](https://img.shields.io/badge/JIRA_SOFTWARE-★★★★☆-0052CC?style=plastic&logo=Jirasoftware&logoColor=white)
+  ![GIT](https://img.shields.io/badge/GIT-★★★★☆-F05032?style=plastic&logo=Git&logoColor=white)
+  
+  <!--| skill | level |
   |---|---|
   |<div align=center><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></div>|⭐⭐⭐⭐⭐|
   |<div align=center><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></div>|⭐⭐⭐⭐|
   |<div align=center><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></div>|⭐⭐⭐|
   |<div align=center><img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></div>|⭐|
   |<div align=center><img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"></div>|⭐⭐⭐⭐|
-  |<div align=center><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>|⭐⭐⭐⭐|
+  |<div align=center><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>|⭐⭐⭐⭐|-->
 <div>
 </p>
-
+<br>
 <h3 align="left">📚 Timeline</h3>
 
 | Type | Date | Organization | Specifics |

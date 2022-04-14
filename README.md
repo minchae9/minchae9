@@ -56,6 +56,10 @@
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minchae9&show_icons=true&locale=en&layout=compact" alt="minchae9" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=minchae9&show_icons=true&locale=en" alt="minchae9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minchae9&" alt="minchae9" /></p>-->
+<br>
+
+[![Minchae9's github stats](https://github-readme-stats.vercel.app/api?username=minchae9)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--

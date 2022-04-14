@@ -41,7 +41,7 @@
 
 | Type | Date | Organization | Specifics |
 |---|---|---|---|
-| 🎓 Edcuation | 2016.03 ~ 2021.08 | Seoul National University | Linguistics (Major)<br>Business Administration (Minor) |
+| 🎓 Education | 2016.03 ~ 2021.08 | Seoul National University | Linguistics (Major)<br>Business Administration (Minor) |
 | 👩‍💻 Education | 2021.07 ~ | Samsung Software Academy for Youth (SSAFY) | Web programming, Algorithms |
 
 

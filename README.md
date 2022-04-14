@@ -5,7 +5,7 @@
 - 🌱 I’m currently on the SSAFY 6th program (2021.07 ~ ).
 - 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🍒 Languages and Tools:</h3>
 <details><summary><b>Star rating</b></summary>
 
 <ul>
@@ -36,6 +36,14 @@
   |<div align=center><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>|⭐⭐⭐⭐|
 <div>
 </p>
+
+<h3 align="left">📚 Timeline</h3>
+
+| Type | Date | Organization | Specifics |
+|---|---|---|---|
+| 🎓 Edcuation | 2016.03 ~ 2021.08 | Seoul National University | Linguistics (Major), Business Administration (Minor) |
+| 👩‍💻 Education | 2021.07 ~ | Samsung Software Academy for Youth (SSAFY) | Web programming, Algorithms |
+
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minchae9&show_icons=true&locale=en&layout=compact" alt="minchae9" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=minchae9&show_icons=true&locale=en" alt="minchae9" /></p>
 

@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Minchae Kim
 
-<h3 align="left">An ardent learner and (to-be) backend developer from Korea</h3>
+<h3 align="left">An ardent learner and backend developer from Korea</h3>
 
 - 🌱 I’m currently on the SSAFY 6th program (2021.07 ~ ).
 - 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)
@@ -50,7 +50,7 @@
 | Type | Date | Organization | Specifics |
 |---|---|---|---|
 | 🎓 Education | 2016.03 ~ 2021.08 | Seoul National University | Linguistics (Major)<br>Business Administration (Minor) |
-| 👩‍💻 Education | 2021.07 ~ | Samsung Software Academy for Youth (SSAFY) | Web programming, Algorithms |
+| 👩‍💻 Education | 2021.07 ~ 2022.05 | Samsung Software Academy for Youth (SSAFY) | Web programming, Algorithms |
 
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minchae9&show_icons=true&locale=en&layout=compact" alt="minchae9" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=minchae9&show_icons=true&locale=en" alt="minchae9" /></p>

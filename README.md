@@ -27,20 +27,20 @@
 
 <p align="center">
   
-  ![PYTHON](https://img.shields.io/badge/PYTHON-★★★★★-3776AB?style=plastic&logo=Python&logoColor=white)
-  ![DJANGO](https://img.shields.io/badge/DJANGO-★★★★☆-092E20?style=plastic&logo=Django&logoColor=white)
+  ![PYTHON](https://img.shields.io/badge/PYTHON-★★★★☆-3776AB?style=plastic&logo=Python&logoColor=white)
+  ![DJANGO](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
   ![SPRING BOOT](https://img.shields.io/badge/SPRING_BOOT-★★★☆☆-6DB33F?style=plastic&logo=Springboot&logoColor=white)
   ![DOCKER](https://img.shields.io/badge/DOCKER-★☆☆☆☆-2496ED?style=plastic&logo=Docker&logoColor=white)
-  ![JIRA SOFTWARE](https://img.shields.io/badge/JIRA_SOFTWARE-★★★★☆-0052CC?style=plastic&logo=Jirasoftware&logoColor=white)
+  ![JIRA SOFTWARE](https://img.shields.io/badge/JIRA_SOFTWARE-★★★★★-0052CC?style=plastic&logo=Jirasoftware&logoColor=white)
   ![GIT](https://img.shields.io/badge/GIT-★★★★☆-F05032?style=plastic&logo=Git&logoColor=white)
   
   <!--| skill | level |
   |---|---|
-  |<div align=center><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></div>|⭐⭐⭐⭐⭐|
-  |<div align=center><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></div>|⭐⭐⭐⭐|
+  |<div align=center><img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"></div>|⭐⭐⭐⭐|
+  |<div align=center><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white"></div>|⭐⭐⭐|
   |<div align=center><img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"><img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"></div>|⭐⭐⭐|
   |<div align=center><img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"><img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></div>|⭐|
-  |<div align=center><img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"></div>|⭐⭐⭐⭐|
+  |<div align=center><img src="https://img.shields.io/badge/jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"></div>|⭐⭐⭐⭐⭐|
   |<div align=center><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>|⭐⭐⭐⭐|-->
 <div>
 </p>
@@ -52,15 +52,6 @@
 | 🎓 Education | 2016.03 ~ 2021.08 | Seoul National University | Linguistics (Major)<br>Business Administration (Minor) |
 | 🎓 Education | 2021.07 ~ 2022.05 | Samsung Software Academy for Youth (SSAFY) | Web programming, Algorithms |
 | 👩‍💻 Education | 2022.05 ~ Present day | Hyundai IT&E (Hyundai Dept. Store Group IT branch) | Web programming, AI chatbot |
-
-
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minchae9&show_icons=true&locale=en&layout=compact" alt="minchae9" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=minchae9&show_icons=true&locale=en" alt="minchae9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minchae9&" alt="minchae9" /></p>-->
-<br>
-
-[![Minchae9's github stats](https://github-readme-stats.vercel.app/api?username=minchae9)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--

@@ -51,7 +51,7 @@
 |---|---|---|---|
 | 🎓 Education | 2016.03 ~ 2021.08 | Seoul National University | Linguistics (Major)<br>Business Administration (Minor) |
 | 🎓 Education | 2021.07 ~ 2022.05 | Samsung Software Academy for Youth (SSAFY) | Web programming, Algorithms |
-| 👩‍💻 Education | 2022.05 ~ Present day | Hyundai IT&E (Hyundai Dept. Store Group IT branch) | Web programming, AI chatbot |
+| 👩‍💻 Education | 2022.05 ~ Present day | Hyundai Futurenet (Hyundai Dept. Store Group IT branch) | Web programming |
 
 
 <!--

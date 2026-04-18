@@ -2,8 +2,8 @@
 
 <h3 align="left">An ardent learner and backend developer from Korea</h3>
 
-- 🌱 I’m currently working as a web developer at Hyundai IT&E
-<!--- 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)-->
+- 🌱 Current major interest: vibe coding using Claude Code 🤖
+<!--- 📝 I write articles about my learning experiences on my blog [here!](https://itzmeee.tistory.com)
 
 <br>
 <h3 align="left">🍒 Languages and Tools</h3>
@@ -44,7 +44,7 @@
   |<div align=center><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>|⭐⭐⭐⭐|-->
 <div>
 </p>
-<br>
+<br>-->
 <h3 align="left">📚 Timeline</h3>
 
 | Type | Date | Organization | Specifics |

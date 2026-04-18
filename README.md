@@ -44,7 +44,7 @@
   |<div align=center><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"></div>|⭐⭐⭐⭐|-->
 <div>
 </p>
-<br>-->
+<br>
 <h3 align="left">📚 Timeline</h3>
 
 | Type | Date | Organization | Specifics |
